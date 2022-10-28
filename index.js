@@ -1,8 +1,8 @@
-let str1 = "JS!";
-let str2 = "I";
-let str3 = "like";
+let str1 = prompt(`Hello! What is your name?`);
+let str2 = prompt(`How old are you?`);
+let str3 = prompt(`Where are you from?`);
 
-console.log(`${str2} ${str3} ${str1}`);
+alert(`${str1}, ${str2}, ${str3}.`);
 
 
 let myNumber = 71505;

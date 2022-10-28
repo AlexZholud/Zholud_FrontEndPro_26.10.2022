@@ -11,8 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a44b0aa9-b41d-4265-a920-be1612d55b60" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/hw3_Zholud/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw3_Zholud/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/hw3_Zholud/index.js" working-dir="$PROJECT_DIR$/hw3_Zholud">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" path-to-js-file="$PROJECT_DIR$/hw3_Zholud/index.js" working-dir="$PROJECT_DIR$/hw3_Zholud">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -68,7 +68,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666884143097</updated>
-      <workItem from="1666884144649" duration="9169000" />
+      <workItem from="1666884144649" duration="10072000" />
+      <workItem from="1666953028435" duration="353000" />
     </task>
     <servers />
   </component>
@@ -85,6 +86,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="641" y="423" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1666892049184">
