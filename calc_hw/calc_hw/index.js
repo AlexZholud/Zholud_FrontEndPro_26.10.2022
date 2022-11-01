@@ -13,16 +13,16 @@ let divResult = (firstNumber / secondNumber);
 
 
 if (typeOfOperation === `+`) {
-    alert(`Your result:\n;${firstNumber} + ${secondNumber} = ${addResult}`);
+    alert(`Your result:\n${firstNumber} + ${secondNumber} = ${addResult}`);
 }
 if (typeOfOperation === `-`) {
-    alert(`Your result:\n;${firstNumber} - ${secondNumber} = ${minResult}`);
+    alert(`Your result:\n${firstNumber} - ${secondNumber} = ${minResult}`);
 }
 if (typeOfOperation === `*`) {
-    alert(`Your result:\n;${firstNumber} * ${secondNumber} = ${multiResult}`);
+    alert(`Your result:\n${firstNumber} * ${secondNumber} = ${multiResult}`);
 }
 if (typeOfOperation === `/`) {
-    alert(`Your result:\n;${firstNumber} / ${secondNumber} = ${divResult}`);
+    alert(`Your result:\n${firstNumber} / ${secondNumber} = ${divResult}`);
 }
 
 
