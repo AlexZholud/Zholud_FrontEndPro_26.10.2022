@@ -1,5 +1,5 @@
 const userBirthYear = Number(prompt ('Enter your year of birth:'));
-let userCity = prompt('Enter the city where you live:')
+let userCity = prompt('Enter the city where you live:');
 let userFavoriteSport = prompt('Enter your favorite kind of sport:');
 
 userCity = userCity.substr(0,1).toUpperCase() + userCity.substr(1).toLowerCase();
@@ -8,10 +8,6 @@ userFavoriteSport = userFavoriteSport.toLowerCase();
 let thisDay = new Date();
 let thisYear = thisDay.getFullYear();
 let userAge = thisYear - userBirthYear;
-
-const kyiv = 'Kyiv';
-const washington = 'Washington';
-const london = 'London';
 
 const liveIn = 'You live in ';
 const ukraine = `${liveIn}the capital of Ukraine.\n`;
@@ -40,11 +36,11 @@ if  (userBirthYear) {
     finalInfo = cancelBirthYear;
 }
 
-if (userCity === kyiv) {
+if (userCity === 'Kyiv') {
     finalInfo = finalInfo + ukraine;
- } else if (userCity === washington) {
+ } else if (userCity === 'Washington') {
     finalInfo = finalInfo + usa;
- } else if (userCity === london) {
+ } else if (userCity === 'London') {
     finalInfo = finalInfo + england;
  } else if (userCity) {
     finalInfo = finalInfo + acceptCity;
