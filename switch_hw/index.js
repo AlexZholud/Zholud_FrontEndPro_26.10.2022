@@ -16,6 +16,7 @@ switch (Number.isNaN(+numOrStr) || String(numOrStr).trim()) {
     default: alert("OK! This is NNaN!");
 }
 
+
 // if...else structure
 
 // if(numOrStr === null) {
