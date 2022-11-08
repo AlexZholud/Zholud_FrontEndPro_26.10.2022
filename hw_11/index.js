@@ -5,7 +5,7 @@ for (let i = 20; i <= 30; i = i + 0.5) {
     task1.push(i);
 
 }
-console.log(task1);
+console.log(task1.join(' '));
 //2. Один долар коштує 27 гривень. Вивести дані з розрахунком вартості 10, 20, 30... 100 доларів.
 let usdToUah = 27;
 const usdToUahArr = [];
